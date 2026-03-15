@@ -2,7 +2,7 @@ pipeline {
   agent any
 
   environment {
-    IMAGE_NAME = 'week12task:latest'
+    IMAGE_NAME = 'week13task:latest'
   }
 
   stages {
