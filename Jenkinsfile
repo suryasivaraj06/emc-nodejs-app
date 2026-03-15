@@ -2,7 +2,7 @@ pipeline {
   agent any
 
   environment {
-    IMAGE_NAME = 'emc-nodejs-app:latest'
+    IMAGE_NAME = 'week12task:latest'
   }
 
   stages {
